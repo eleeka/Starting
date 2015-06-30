@@ -20,7 +20,7 @@
                     <td><input type="password" name="userpass" /></td>  
                 </tr>  
                 <tr>  
-                    <td><input type="submit" value="Login" /></td>  
+                    <td><input type="submit" value="Signin" /></td>  
                 </tr>  
             </table>  
         </fieldset>  
